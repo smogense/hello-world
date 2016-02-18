@@ -1,0 +1,175 @@
+    1  /Volumes/Rome_Save_Updater/Rome_Total_War_Save_Updater.command ; exit;
+    2  whoami
+    3  PS1="$ "
+    4  whereami
+    5  pwd
+    6  ls
+    7  ls -l
+    8  ls -a
+    9  man ls
+   10  ls -h
+   11  ls -lh
+   12  cd
+   13  cd 
+   14  pwd
+   15  ls
+   16  ls Desktop/
+   17  ls Desktop/
+   18  ls
+   19  ls Applications/
+   20  ls Library/
+   21  ls Desktop/
+   22  ls Documents/pHd/
+   23  ls Documents/pHd/Growth/
+   24  pwd
+   25  ls -a
+   26  ls ..
+   27  ls ../..
+   28  ls /
+   29  ls -lh ../
+   30  pwd
+   31  ls
+   32  cd Documents/
+   33  psd
+   34  pwd
+   35  ls
+   36  cd ..
+   37  pwd
+   38  cd /
+   39  pwd
+   40  cd home
+   41  pwd
+   42  cd
+   43  pwd
+   44  cd ~
+   45  pwd
+   46  cd /
+   47  pwd
+   48  cd ~/Desktop/
+   49  pwd
+   50  mkdir SoftCar
+   51  ls
+   52  cd Softcar
+   53  pwd
+   54  ls
+   55  mkdir Terminal Testing
+   56  ls
+   57  mkdir Terminal\Testing
+   58  ls
+   59  mkdir Terminal\ Testing
+   60  ls
+   61  ls Terminal
+   62  cd TerminalTesting
+   63  pwd
+   64  nano Important_Ideas
+   65  ls
+   66  nano Important_Ideas
+   67  cat Important_Ideas 
+   68  man cat
+   69  nano TheOtherFile
+   70  cat Important_Ideas TheOtherFile 
+   71  man cat
+   72  cat Important_Ideas TheOtherFile -b
+   73  cat -b  Important_Ideas TheOtherFile 
+   74  cat -n  Important_Ideas TheOtherFile 
+   75  cat -b  Important_Ideas TheOtherFile 
+   76  man cat
+   77  clear
+   78  cp Important_Ideas ../
+   79  ls ..
+   80  ls ../
+   81  pwd
+   82  cat ../Important_Ideas
+   83  cp * ../
+   84  ls ../
+   85  cd ../
+   86  pwd
+   87  ls
+   88  rm TerminalTesting/
+   89  rm -rf TerminalTesting/
+   90  rm Terminal\ Testing
+   91  rm -rf Terminal\ Testing
+   92  rm -rf Testing
+   93  rm -rf TerminalTesting
+   94  ls
+   95  rm -rf Terminal
+   96  ls
+   97  mv Important_Ideas Important_Ideas.text
+   98  ls
+   99  mv Important_Ideas.text Important_Ideas.txt
+  100  ls
+  101* mv Important_Ideas.txt .. Important_Ideas.txt
+  102  ls
+  103  ls
+  104  pwd
+  105  clear
+  106  pwd
+  107  curl -LO http://bit.ly/1TTicb6
+  108  ls
+  109  cat 1TTicb6 
+  110  ls
+  111  head 1TTicb6 
+  112  ls
+  113  tail 1TTicb6 
+  114  head -20 1TTicb6 
+  115  ls
+  116  mv 1TTicb6 MobyDick.txt
+  117  ls
+  118  grep whale MobyDick.txt
+  119  grep whale MobyDick.txt ImportantIdeas.txt
+  120  grep whale MobyDick.txt Important_Ideas.txt 
+  121  grep whale* MobyDick.txt
+  122  grep -w whale MobyDick.txt 
+  123  grep -w whale
+  124  grep -wn whale MobyDick.txt
+  125  wc MobyDick.txt
+  126* 
+  127  wc -l MobyDick.txt
+  128  wc -w MobyDick.txt
+  129  grep -w whale MobyDick.txt | wc -l
+  130  tr ' ' '\n' MobyDick.txt
+  131  tr ' ' '\n' <MobyDick.txt
+  132  tr ' ' '\n' <MobyDick.txt| grep -w whale |wc -w
+  133  tr ' ' '\n' <MobyDick.txt| grep -w whale |wc -l
+  134  pwd
+  135  tr ' ' '\n' <MobyDick.txt| grep -w whale |wc -l
+  136  nano wordHunter.sh
+  137  ls
+  138  bash wordhunter.sh
+  139  nano wordHunter.sh
+  140  bash wordhunter.sh
+  141  nano wordHunter.sh
+  142  bash wordhunter.sh whale
+  143  nano wordHunter.sh
+  144  bash wordhunter.sh boat
+  145  bash wordhunter.sh unicorn
+  146  bash wordhunter.sh Ishmael
+  147* 
+  148  nano wordHunter.sh
+  149  bash wordhunter.sh whale MobyDick.txt
+  150  nano wordHunter.sh
+  151  bash wordhunter.sh whale MobyDick.txt
+  152  nano wordHunter.sh
+  153  bash wordhunter.sh whale MobyDick.txt
+  154  bash wordhunter.sh help MobyDick.txt
+  155  nano wordHunter.sh
+  156  bash wordhunter.sh 
+  157  bash wordhunter.sh the
+  158  nano wordHunter.sh
+  159  bash wordhunter.sh the
+  160  bash wordhunter.sh help
+  161  bash wordhunter.sh this
+  162  bash wordhunter.sh yay
+  163  nano Important_Ideas.txt
+  164  bash wordhunter.sh things
+  165  nano Important_Ideas.txt
+  166  bash wordhunter.sh Things
+  167  history
+  168  nano wordHunter.sh
+  169  history | grep tr
+  170  history > whatIdidToday.txt
+Important_Ideas.txt
+MobyDick.txt
+TheOtherFile
+whatIdidToday.txt
+wordHunter.sh
